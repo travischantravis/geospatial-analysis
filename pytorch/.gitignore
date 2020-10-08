@@ -1,3 +1,5 @@
 MNIST/
+PetImages/
+training_data.npy
 
 .ipynb_checkpoints/
