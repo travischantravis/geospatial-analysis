@@ -3,3 +3,4 @@
 ---
 
 - conda activate geo_env
+- jupyter notebook
